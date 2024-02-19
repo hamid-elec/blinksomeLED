@@ -1,3 +1,5 @@
+// this code is an example to work with git hub abd git on the computer 
+
 #define RedLED 6 
 
 void setup() {
